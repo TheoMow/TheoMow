@@ -7,6 +7,8 @@
 	<link href="myCSS.css" rel="stylesheet" type="text/css">
 </head>
 <body>
+
+<p> things i like are tennis video games. Im 60 in the state in tennis. And i am super good at timberborn which is a new game that i highly recommend.</p>
 <div class="container">
   <div class="header">
   	<h1>ECS Portfolio</h1>
